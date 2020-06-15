@@ -1,4 +1,4 @@
-module github.com/Haiga/dialog
+module github.com/haiga/dialog
 
 require (
 	github.com/BurntSushi/freetype-go v0.0.0-20160129220410-b763ddbfe298
